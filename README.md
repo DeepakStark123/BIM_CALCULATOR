@@ -9,7 +9,9 @@ The objective of this app is how we can customise Flutter Widgets to achieve our
 
 i am going to make a Body Mass Index Calculator, It will be a multi screen app with simple functionality but full-on custom styling. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+## link of app demo below
+
+https://imgflip.com/gif/5xxtd4
 
 ## What you will learn
 
